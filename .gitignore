@@ -1,0 +1,8 @@
+# Eclipse metadata files
+.metadata/
+
+# Zip archives
+*.zip
+
+# Udemy project folder (if you meant the whole folder)
+udemy/
